@@ -1,0 +1,1 @@
+export default function Systems(){return(<main className='px-6 py-24'><h2>Systems</h2></main>)}
